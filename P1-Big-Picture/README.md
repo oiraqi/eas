@@ -21,7 +21,7 @@ In the context of this course, we will use the term Enterprise Applications (EAs
 - Social Networking software, such as Facebook (http://www.facebook.com)
 - E-commerce software, such as Amazon (https://www.amazon.com)
 
-Notice that not all these software apps and/or platforms are necessarily used by enterprises/professionals, e.g., WhatsApp, Facebook, etc. However, all these examples have complex *enterprise-grade* requirements under the bullets mentioned above.
+Notice that _NOT_ all these software apps and/or platforms are necessarily used by enterprises/professionals, e.g., WhatsApp, Facebook, etc. However, all these examples have complex *enterprise-grade* requirements under the bullets mentioned above.
 
 ## Common (Non-functional) Requirement Areas
 - Performance
