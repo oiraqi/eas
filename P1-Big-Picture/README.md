@@ -40,7 +40,7 @@ Notice that not all these software apps and/or platforms are necessarily used by
 - Principle 5: There is no best technology
 
 ## Architectural Models
-  - Client/Server Model
-  - Multi-tier Model
-  - MVC
-  - Microservices
+### Client/Server Model
+### Multi-tier SOA Model
+### MVC
+### Microservices
