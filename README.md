@@ -17,10 +17,10 @@ This course enables students to achieve the ability to:
 ## Content
 Part | Main Concepts | Language(s) | APIs / Libraries / Frameworks / Runtimes |
 | --- | --- | --- | --- |
-| [P1](https://github.com/oiraqi/eas/tree/main/P1-Big-Picture) | Protocols, clients, servers, sockets, blocking I/O | Java | Socket API |
-| [P2](https://github.com/oiraqi/eas/tree/main/P2-Server-Side) | RPC, Service Definition Language, Web Services, XML/SOAP, REST | Java, Python, JavaScript | JAX-WS, Python Zeep, JavaScript Soap, Spring Boot, OpenAPI, curl |
-| [P3](https://github.com/oiraqi/eas/tree/main/P3-Client-Side) | Threads, non-blocking I/O, event loop, job queue, callbacks, promises, async/await | Java, JavaScript |Thread/Runnable, Fetch API, Node.js |
-| [P4](https://github.com/oiraqi/eas/tree/main/P4-Microservices-Cloud) | Observables, observable piping and Rx operators, asynchronous streams | JavaScript | RxJS, Node.js |
+| [P1](https://github.com/oiraqi/eas/tree/main/P1-Big-Picture) | Principles, Common Requirement Areas (Security, Performance, Scalability, Extensibility, Interoperability, Portability, Maintainability), Architectural Models (Multi-tier, MVC, Microservices) | N/A | REST, GraphQL, JSON:API |
+| [P2](https://github.com/oiraqi/eas/tree/main/P2-Server-Side) | Monolithic Server-side Architecture, design and development, IoC, DI, ORM, reverse proxying, load balancing, IAAA | UML, Java | Spring Boot, JPA, Hibernate, Elide, Nginx, Redis, Postgres |
+| [P3](https://github.com/oiraqi/eas/tree/main/P3-Client-Side) | Progressive Web/Mobile Apps, FIRE attributes, UI Components, proxy services, state management, navigation (routing), service workers, caching, offline access | Javascript, Typescript, HTML, CSS |Angular, Material Design |
+| [P4](https://github.com/oiraqi/eas/tree/main/P4-Microservices-Cloud) | API gateway, circuit breaker, CQRS, asynchronous event-based architecture, cloud functions, messaging and storage, serverless | Java, Javascript | Spring Cloud, Netflix OSS, Firebase, Kafka |
 
 ## Tools
 Develop | Build | Run | Collaborate |
