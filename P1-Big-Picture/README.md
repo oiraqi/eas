@@ -9,7 +9,7 @@
 In the context of this course, we will use the term Enterprise Applications (EAs) to mean Enterprise-class Applications, i.e., applications that exhibit enterprise-level features and characteristics. These features and characteristics can be captured/expressed as complex non-functional requirements in terms of:
 - How secure they are
 - How fast they are
-- How many (growing) users they can handle
+- How they can handle growing loads and numbers of users
 - How they can evolve and offer a richer functionality through time
 - How they can be accessible anytime, anywhere
 - How they can integrate with other systems
