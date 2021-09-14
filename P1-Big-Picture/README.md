@@ -21,7 +21,7 @@ In the context of this course, we will use the term Enterprise Applications (EAs
 - How fast they are
 - How many (growing) users they can handle
 - How secure they are
-- How they can evolve and offer a richer functionality
+- How they can evolve and offer a richer functionality through time
 - How they can be accessible anytime, anywhere
 - How they can integrate with other systems
 - How they can be maintained
