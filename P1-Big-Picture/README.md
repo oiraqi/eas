@@ -25,3 +25,5 @@ In the context of this course, we will use the term Enterprise Applications (EAs
 - Portability
 - Interoperability
 - Maintainability
+### Examples of EAs
+- Enterprise Resource Planning (ERP) Software, such as Odoo (https://www.odoo.com)
