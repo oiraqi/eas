@@ -10,3 +10,8 @@
   - Portability
   - Interoperability
   - Maintainability
+- Architectural Models
+  - Client/Server Model
+  - Multi-tier Model
+  - MVC
+  - Microservices
