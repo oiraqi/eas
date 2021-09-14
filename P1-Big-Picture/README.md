@@ -1,7 +1,7 @@
 # Part I. Requirement Areas, Priniples and Architectural Models of EAs
 ## Table of Contents
 - [Introduction](#introduction)
-- [Requirement Areas](#requirement-areas)
+- [Common (Non-functional) Requirement Areas](#requirement-areas)
   - Performance
   - Scalability
   - Security
@@ -34,7 +34,7 @@ In the context of this course, we will use the term Enterprise Applications (EAs
 
 Notice that not all these software apps and/or platforms are necessarily used by enterprises/professionals, e.g., WhatsApp, Facebook, etc. However, all these examples have complex *enterprise-grade* requirements under the bullets mentioned above.
 
-## EA Non-functional Requirement Areas
+## Common (Non-functional) Requirement Areas
 - Performance
 - Scalability
 - Security
