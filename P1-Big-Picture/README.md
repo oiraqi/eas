@@ -26,4 +26,8 @@ In the context of this course, we will use the term Enterprise Applications (EAs
 - Interoperability
 - Maintainability
 ### Examples of EAs
-- Enterprise Resource Planning (ERP) Software, such as Odoo (https://www.odoo.com)
+- Enterprise Resource Planning (ERP) software, such as Odoo (https://www.odoo.com)
+- Hotel & Travel Management software, such as Booking (https://www.booking.com)
+- Communication software, such as WhatsApp (https://www.whatsapp.com)
+- Social Networking software, such as Facebook (http://www.facebook.com)
+- E-commerce software, such as Amazon (https://www.amazon.com)
