@@ -6,7 +6,7 @@
 - [Architectural Models](#architectural-models)
 
 ## Introduction
-In the context of this course, we will use the term Enterprise Applications (EAs) to mean Enterprise-class Applications, i.e., applications that exhibit enterprise-level features and characteristics. These features and characteristics can be captured/expressed as _complex non-functional_ requirements in terms of:
+In the context of this course, we will use the term Enterprise Applications (EAs) to mean Enterprise-class Applications, i.e., applications that exhibit enterprise-level features and characteristics. These features and characteristics can be captured/expressed as _complex non-functional requirements_ in terms of:
 - How secure they are
 - How fast they are
 - How they can handle growing loads and numbers of users
