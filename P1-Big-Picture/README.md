@@ -15,3 +15,13 @@
   - Multi-tier Model
   - MVC
   - Microservices
+
+## Introduction
+In the context of this course, we will use the term Enterprise Applications (EAs) to mean Enterprise-class Applications, i.e., applications that exhibit enterprise-level features and characteristics. These features and characteristics can be captured/expressed as complex non-functional requirements under these areas:
+- Performance
+- Scalability
+- Security
+- Extensibility
+- Portability
+- Interoperability
+- Maintainability
