@@ -13,3 +13,16 @@ This course enables students to achieve the ability to:
 2. Master the architecture, design and development of the (monolithic) server side of enterprise applications, using a modern framework, such as Spring Boot
 3. Master the design and development of progressive web/mobile client side of enterprise applications, using a modern technology, such as Angular, React and Vue
 4. Apply microservices design patterns in a cloud environment to address the limitations of monoliths, using modern cloud frameworks and platforms, such as Spring Cloud, Netflix OSS  and Google Firebase
+
+## Content
+Part | Main Concepts | Language(s) | APIs / Libraries / Frameworks / Runtimes |
+| --- | --- | --- | --- |
+| [P1](https://github.com/oiraqi/eas/tree/main/P1-Big-Picture) | Protocols, clients, servers, sockets, blocking I/O | Java | Socket API |
+| [P2](https://github.com/oiraqi/eas/tree/main/P2-Server-Side) | RPC, Service Definition Language, Web Services, XML/SOAP, REST | Java, Python, JavaScript | JAX-WS, Python Zeep, JavaScript Soap, Spring Boot, OpenAPI, curl |
+| [P3](https://github.com/oiraqi/eas/tree/main/P3-Client-Side) | Threads, non-blocking I/O, event loop, job queue, callbacks, promises, async/await | Java, JavaScript |Thread/Runnable, Fetch API, Node.js |
+| [P4](https://github.com/oiraqi/eas/tree/main/P4-Microservices-Cloud) | Observables, observable piping and Rx operators, asynchronous streams | JavaScript | RxJS, Node.js |
+
+## Tools
+Develop | Build | Run | Collaborate |
+| :---: | :---: | :---: | :---: |
+| VS Code | Gradle | Docker | Git |
