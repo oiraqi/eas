@@ -1,8 +1,7 @@
 # Part I. Requirement Areas, Priniples and Architectural Models of EAs
 ## Table of Contents
 - [Introduction](#introduction)
-- Principles
-- Requirement Areas
+- [Requirement Areas](#requirement-areas)
   - Performance
   - Scalability
   - Security
@@ -10,7 +9,8 @@
   - Ubiquitous Access
   - Interoperability
   - Maintainability
-- Architectural Models
+- [Principles](#principles)
+- [Architectural Models](#architectural-models)
   - Client/Server Model
   - Multi-tier Model
   - MVC
