@@ -1,7 +1,7 @@
 # Part I. Requirement Areas, Priniples and Architectural Models of EAs
 ## Table of Contents
 - [Introduction](#introduction)
-- [Common (Non-functional) Requirement Areas](#requirement-areas)
+- [Common (Non-functional) Requirement Areas](#common-non-functional-requirement-areas)
   - Performance
   - Scalability
   - Security
