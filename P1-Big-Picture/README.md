@@ -1,4 +1,4 @@
-# Part I. The Principles, Requirement Areas and Architectural Models of EAs
+# Part I. Requirement Areas, Priniples and Architectural Models of EAs
 ## Table of Contents
 - Introduction
 - Principles
