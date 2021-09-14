@@ -2,19 +2,8 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Common (Non-functional) Requirement Areas](#common-non-functional-requirement-areas)
-  - Performance
-  - Scalability
-  - Security
-  - Extensibility
-  - Ubiquitous Access
-  - Interoperability
-  - Maintainability
 - [Principles](#principles)
 - [Architectural Models](#architectural-models)
-  - Client/Server Model
-  - Multi-tier Model
-  - MVC
-  - Microservices
 
 ## Introduction
 In the context of this course, we will use the term Enterprise Applications (EAs) to mean Enterprise-class Applications, i.e., applications that exhibit enterprise-level features and characteristics. These features and characteristics can be captured/expressed as complex non-functional requirements in terms of:
@@ -49,3 +38,9 @@ Notice that not all these software apps and/or platforms are necessarily used by
 - Principle 3: EA requirements should be addressed through the whole application lifecycle
 - Principle 4: Don’t reinvent the wheel – Common business requirements mean common business solutions
 - Principle 5: There is no best technology
+
+## Architectural Models
+  - Client/Server Model
+  - Multi-tier Model
+  - MVC
+  - Microservices
