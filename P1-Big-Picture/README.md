@@ -35,7 +35,7 @@ Notice that _NOT_ all these software apps and/or platforms are necessarily used 
 ## Principles
 - Principle 1: EAs should be aligned with the business – It’s not about technology; it’s about business
 - Principle 2: EAs should be cost-effective
-- Principle 3: EA requirements should be addressed through the whole application lifecycle
+- Principle 3: EA requirements should be addressed through the whole software development lifecycle
 - Principle 4: Don’t reinvent the wheel – Common business requirements mean common business solutions
 - Principle 5: There is no best technology
 
