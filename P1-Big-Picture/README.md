@@ -1,4 +1,4 @@
-# Part I. Requirement Areas, Priniples and Architectural Models of EAs
+# Part I. Requirement Areas, Principles and Architectural Models of EAs
 ## Table of Contents
 - [Introduction](#introduction)
 - [Common (Non-functional) Requirement Areas](#common-non-functional-requirement-areas)
