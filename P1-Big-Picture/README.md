@@ -47,6 +47,7 @@ So, you need to determine a _reasonable_ and _acceptable_ response time, taking 
 - UX
 - What competitors offer
 - Constraints (e.g. poor client-side network connectivity)
+
 To specify requirements in terms of:
 - Caching (client side and server side)
 - Compression
