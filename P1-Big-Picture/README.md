@@ -49,6 +49,8 @@ So, you need to determine a _reasonable_ and _acceptable_ response time, taking 
 - Cost
 - Constraints (e.g. poor client-side network connectivity)
 
+A typical value for an interactive app, such as Facebook is 200 - 300 ms.
+
 To specify requirements in terms of:
 - Caching (client side and server side)
 - Compression
@@ -58,6 +60,11 @@ To specify requirements in terms of:
 - Parallelism
 
 ### Scalability
+Preserving performance while the load grows, at an acceptable (linear) cost. The load grows because of an increasing:
+- Customer base; and/or
+- Number of transactions per customer.
+
+In both cases, such a success should be handled correctly and efficiently. Otherwise, it will become the cause of a total failure.
 ### Extensibility
 ### Ubiquitous Access
 ### Interoperability
