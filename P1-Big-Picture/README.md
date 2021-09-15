@@ -24,13 +24,29 @@ In the context of this course, we will use the term Enterprise Applications (EAs
 Notice that _NOT_ all these software apps and/or platforms are necessarily used by enterprises/professionals, e.g., WhatsApp, Facebook, Amazon, etc. However, all these examples have complex *enterprise-grade* requirements under the bullets mentioned above. These can be formally mapped to requirement areas detailed below.
 
 ## Common (Non-functional) Requirement Areas
-- Security
-- Performance
-- Scalability
-- Extensibility
-- Ubiquitous Access
-- Interoperability
-- Maintainability
+### Security
+Protecting the:
+- Confidentiality
+- Integrity
+- Availability
+Of data at:
+- Processing
+- Motion (between processes within the same host or through the network)
+- Rest
+So, we need to:
+- identify and categorize the data that will be managed by the app, e.g., student personal records, academic records, financial records
+- identify the processes (the functions) that will act on each data category
+- identify the actors (user roles) allowed to perform each process -- the basis for IAAA: Identification, Authentication, Authorization and Accounting
+- identify motion paths, related risks and what it is required to mitigate thos risks
+- identify storage systems, related risks and what it is required to mitigate thos risks
+And you need of course to ensure baseline security
+
+### Performance
+### Scalability
+### Extensibility
+### Ubiquitous Access
+### Interoperability
+### Maintainability
 
 ## Principles
 - Principle 1: EAs should be aligned with the business – It’s not about technology; it’s about business
