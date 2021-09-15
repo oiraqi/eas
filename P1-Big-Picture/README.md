@@ -32,7 +32,7 @@ Protecting the _Confidentiality_, _Integrity_ and _Availability_ (CIA triad) of 
 
 So, we need to:
 - Identify and categorize the data that will be managed by the app, e.g., student personal records, academic records, financial records
-- Identify the processes (the functions) that will act on each data category
+- Identify the processes (which gets down to the functions) that will act on each data category
 - Identify the actors (user roles) allowed to perform each process: The basis for IAAA (Identification, Authentication, Authorization and Accounting)
 - Identify motion paths, related risks and what it is required to mitigate those risks
 - Identify storage systems, entities and attributes, related risks and what it is required to mitigate those risks
