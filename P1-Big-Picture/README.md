@@ -25,22 +25,17 @@ Notice that _NOT_ all these software apps and/or platforms are necessarily used 
 
 ## Common (Non-functional) Requirement Areas
 ### Security
-Protecting the:
-- Confidentiality
-- Integrity
-- Availability
-
-Of data at:
-- Processing
-- Motion (between processes within the same host or through the network)
-- Rest
+Protecting the _Confidentiality_, _Integrity_ and _Availability_ (CIA triad) of data:
+- at the level of _processing_
+- In _motion_ (between processes within the same host or through the network)
+- At _rest_
 
 So, we need to:
-- identify and categorize the data that will be managed by the app, e.g., student personal records, academic records, financial records
-- identify the processes (the functions) that will act on each data category
-- identify the actors (user roles) allowed to perform each process -- the basis for IAAA: Identification, Authentication, Authorization and Accounting
-- identify motion paths, related risks and what it is required to mitigate thos risks
-- identify storage systems, related risks and what it is required to mitigate thos risks
+- Identify and categorize the data that will be managed by the app, e.g., student personal records, academic records, financial records
+- Identify the processes (the functions) that will act on each data category
+- Identify the actors (user roles) allowed to perform each process: The basis for IAAA (Identification, Authentication, Authorization and Accounting)
+- Identify motion paths, related risks and what it is required to mitigate those risks
+- Identify storage systems, related risks and what it is required to mitigate those risks
 
 And you need of course to ensure baseline security
 
