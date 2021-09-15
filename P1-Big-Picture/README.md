@@ -35,9 +35,7 @@ So, we need to:
 - Identify the processes (the functions) that will act on each data category
 - Identify the actors (user roles) allowed to perform each process: The basis for IAAA (Identification, Authentication, Authorization and Accounting)
 - Identify motion paths, related risks and what it is required to mitigate those risks
-- Identify storage systems, related risks and what it is required to mitigate those risks
-
-And you need of course to ensure baseline security
+- Identify storage systems, entities and attributes, related risks and what it is required to mitigate those risks
 
 ### Performance
 ### Scalability
