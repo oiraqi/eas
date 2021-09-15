@@ -76,6 +76,8 @@ So, we need to model load growth through time, and determine corresponding requi
 - Distributed computing
 
 ### Extensibility
+Extending the functionality of the application at an acceptable (development) cost, with minimum side effects on security, performance and scalability.
+
 ### Ubiquitous Access
 ### Interoperability
 ### Maintainability
