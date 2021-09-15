@@ -82,6 +82,7 @@ So, we need to identify potential extension scenarios and corresponding requirem
 - Loose coupling
 
 ### Ubiquitous Access
+Accessing data and functionality _anytime_, _anywhere_.
 ### Interoperability
 ### Maintainability
 
