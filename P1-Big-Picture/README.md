@@ -46,12 +46,15 @@ Ensuring response time under a predefined limit. Response time includes:
 So, you need to determine a _reasonable_ and _acceptable_ response time, taking into account:
 - UX
 - What competitors offer
+- Cost
 - Constraints (e.g. poor client-side network connectivity)
 
 To specify requirements in terms of:
 - Caching (client side and server side)
 - Compression
 - Processing power
+- Multithreading
+- Asynchronicity
 - Parallelism
 
 ### Scalability
