@@ -29,16 +29,19 @@ Protecting the:
 - Confidentiality
 - Integrity
 - Availability
+
 Of data at:
 - Processing
 - Motion (between processes within the same host or through the network)
 - Rest
+
 So, we need to:
 - identify and categorize the data that will be managed by the app, e.g., student personal records, academic records, financial records
 - identify the processes (the functions) that will act on each data category
 - identify the actors (user roles) allowed to perform each process -- the basis for IAAA: Identification, Authentication, Authorization and Accounting
 - identify motion paths, related risks and what it is required to mitigate thos risks
 - identify storage systems, related risks and what it is required to mitigate thos risks
+
 And you need of course to ensure baseline security
 
 ### Performance
