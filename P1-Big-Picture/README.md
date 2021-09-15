@@ -65,6 +65,16 @@ Preserving performance while the load grows, at an acceptable (linear) cost. The
 - Number of transactions per customer.
 
 In both cases, such a success should be handled correctly and efficiently. Otherwise, it will become the cause of a total failure.
+There are two techniques to scale:
+- Vertical scaling (Scale up): increasing processing power at the level of the same node -- Limited!
+- Horizontal scaling (Scale out): increasing processing power by adding more nodes -- Used to extend vertical scaling
+
+So, we need to model load growth through time, and determine corresponding requirements in terms of:
+- Node characteristics
+- Load balancing
+- Distributed data management
+- Distributed computing
+
 ### Extensibility
 ### Ubiquitous Access
 ### Interoperability
