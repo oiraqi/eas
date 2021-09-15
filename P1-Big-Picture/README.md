@@ -38,6 +38,21 @@ So, we need to:
 - Identify storage systems, entities and attributes, related risks and what it is required to mitigate those risks
 
 ### Performance
+Ensuring response time under a predefined limit. Response time includes:
+- I/O time
+- Processing time (at the level of the application, DBMS, middleware)
+- Transfer time (between client side and server side, within the server side)
+
+So, you need to determine a _reasonable_ and _acceptable_ response time, taking into account:
+- UX
+- What competitors offer
+- Constraints (e.g. poor client-side network connectivity)
+To specify requirements in terms of:
+- Caching (client side and server side)
+- Compression
+- Processing power
+- Parallelism
+
 ### Scalability
 ### Extensibility
 ### Ubiquitous Access
