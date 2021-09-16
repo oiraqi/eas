@@ -149,11 +149,17 @@ You can think of it as:
 ### Multi-Tier Model
 <p align="center"><img src="Multi-Tier.png"><br/><b>Figure 2. Multi-Tier Model</b></p>
 
+#### Discussion: Advantages? Drwabacks?
+
 ### MVC Model
 <p align="center"><img src="MVC.png"><br/><b>Figure 3. MVC Model</b></p>
 
+#### Discussion: Advantages? Drwabacks?
+
 ### SOA Model
 <p align="center"><img src="SOA.png"><br/><b>Figure 4. SOA Model</b></p>
+
+#### Discussion: Advantages? Drwabacks?
 
 ### Microservices Model
 
