@@ -163,7 +163,7 @@ MVC is not specific to the server side or to the multi-tier model, but it enhanc
 <p align="center"><img src="SOA.png"><br/><b>Figure 4. SOA Model</b></p>
 
 #### Note
-SOA is not specific to the multi-tier architecture, but enhances it.
+SOA is not specific to the multi-tier model, but enhances it.
 
 #### Discussion: Advantages? Drawbacks?
 
