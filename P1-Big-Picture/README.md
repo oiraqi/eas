@@ -137,6 +137,8 @@ You can think of it as:
 <p align="center">Architectural Model + Specific Requirements + Adopted Technology ==> Architecture</p>
 
 ### Two-Tier DOA Model
+<p align="center"><img src="Two-Tier.png"></p>
+
 ### Multi-Tier SOA Model
 ### MVC
 ### Microservices
