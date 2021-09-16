@@ -82,11 +82,11 @@ So, we need to identify potential extension scenarios and corresponding requirem
 - Loose coupling
 
 ### Accessibility
-Ensuring ubiquitous access to data and functionality, i.e., access _anytime_, _anywhere_. This requires the client to support:
+Ensuring ubiquitous access to data and functionality, i.e., access _anytime_, _anywhere_. This requires the _client side_ to support:
 - as many types of devices as possible, for portability and responsivness (adaptability to screen size)
 - as many operating systems as possible for portability
 - offline access through caching
-- 
+
 ### Interoperability
 ### Maintainability
 
