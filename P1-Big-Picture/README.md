@@ -115,11 +115,10 @@ Ensuring security flaws and logical bugs can be fixed at minimum cost (man-hour,
 - Principle 5: There is no best technology
 
 ## Architectural Models
-From Wikipedia: "
+_From Wikipedia_:
 -Software architecture refers to the _fundamental structures_ of a software system and the discipline of creating such structures and systems. Each structure comprises _software elements_, _relations_ among them, and _properties_ of both elements and relations.[1]
 -The architecture of a software system is a metaphor, analogous to the architecture of a building.[2]
 - It functions as a _blueprint_ for the system and the developing project, laying out the tasks necessary to be executed by the design teams.[3]
-"
 
 ### Client/Server (Two-Tier) Model
 ### Multi-Tier SOA Model
