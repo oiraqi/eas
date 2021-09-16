@@ -144,22 +144,22 @@ You can think of it as:
 ### Two-Tier Model
 <p align="center"><img src="Two-Tier.png"><br/><b>Figure 1. Tow-Tier Model</b></p>
 
-#### Discussion: Advantages? Drwabacks?
+#### Discussion: Advantages? Drawbacks?
 
 ### Multi-Tier Model
 <p align="center"><img src="Multi-Tier.png"><br/><b>Figure 2. Multi-Tier Model</b></p>
 
-#### Discussion: Advantages? Drwabacks?
+#### Discussion: Advantages? Drawbacks?
 
 ### MVC Model
 <p align="center"><img src="MVC.png"><br/><b>Figure 3. MVC Model</b></p>
 
-#### Discussion: Advantages? Drwabacks?
+#### Discussion: Advantages? Drawbacks?
 
 ### SOA Model
 <p align="center"><img src="SOA.png"><br/><b>Figure 4. SOA Model</b></p>
 
-#### Discussion: Advantages? Drwabacks?
+#### Discussion: Advantages? Drawbacks?
 
 ### Microservices Model
 
