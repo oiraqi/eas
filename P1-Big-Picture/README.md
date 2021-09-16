@@ -2,6 +2,13 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Common (Non-functional) Requirement Areas](#common-non-functional-requirement-areas)
+  - [Security](#security)
+  - [Performance](#performance)
+  - [Scalability](#scalability)
+  - [Extensibility](#extensibility)
+  - [Accessibility](#accessibility)
+  - [Interoperability](#interoperability)
+  - [Maintainability](#maintainability)
 - [Principles](#principles)
 - [Architectural Models](#architectural-models)
 
