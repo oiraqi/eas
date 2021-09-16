@@ -125,6 +125,13 @@ _From Wikipedia_:
 
 _End Wikipedia_
 
+Now, what's the relationship between _Architecture_ and _Architectural Models_?
+The architecture of a software shall:
+- be derived from, and support the fulfillment of its requirements,
+- take into consideration technological choices, which themselves depend on the software requirements among other things, such as developer skills and expertise.
+
+However, instead of designing the software architecture from scratch, it's a good idea to use a _proven_, _generic_ architecture that solves _common problems_ as a _starting point_. This is what we call _Architectural Model_. Then, we _customize_ the architectural model based on specific _requirements_ and _technology_.
+
 ### Client/Server (Two-Tier) Model
 ### Multi-Tier SOA Model
 ### MVC
