@@ -14,6 +14,7 @@
   - [Two-Tier Model](#two-tier-model)
   - [Multi-Tier Model](#multi-tier-model)
   - [MVC Model](#mvc-model)
+  - [SOA Model](#soa-model)
   - [Microservices Model](#microservices-model)
 - [References](#references)
 
@@ -148,6 +149,9 @@ You can think of it as:
 
 ### MVC Model
 <p align="center"><img src="MVC.png"><br/><b>Figure 3. MVC Model</b></p>
+
+### SOA Model
+<p align="center"><img src="SOA.png"><br/><b>Figure 4. SOA Model</b></p>
 
 ### Microservices Model
 
