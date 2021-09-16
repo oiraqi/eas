@@ -11,6 +11,10 @@
   - [Maintainability](#maintainability)
 - [Principles](#principles)
 - [Architectural Models](#architectural-models)
+  - [Two-Tier Model](#two-tier-model)
+  - [Multi-Tier Model](#multi-tier-model)
+  - [MVC Model](#mvc-model)
+  - [Microservices Model](#microservices-model)
 - [References](#references)
 
 ## Introduction
@@ -142,8 +146,8 @@ You can think of it as:
 ### Multi-Tier Model
 <p align="center"><img src="Multi-Tier.png"><br/><b>Figure 2. Multi-Tier Model</b></p>
 
-### MVC
-### Microservices
+### MVC Model
+### Microservices Model
 
 ## References
 [1] Clements, Paul; Felix Bachmann; Len Bass; David Garlan; James Ivers; Reed Little; Paulo Merson; Robert Nord; Judith Stafford (2010). Documenting Software Architectures: Views and Beyond, Second Edition. Boston: Addison-Wesley. ISBN 978-0-321-55268-6.
