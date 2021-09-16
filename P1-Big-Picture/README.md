@@ -122,6 +122,7 @@ _From Wikipedia_:
   - _properties_ of both elements and relations.[1]
 - The architecture of a software system is a metaphor, analogous to the architecture of a building.[2]
 - It functions as a _blueprint_ for the system and the developing project, laying out the tasks necessary to be executed by the design teams.[3]
+
 _End Wikipedia_
 
 ### Client/Server (Two-Tier) Model
