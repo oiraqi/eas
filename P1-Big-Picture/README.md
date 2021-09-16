@@ -11,6 +11,7 @@
   - [Maintainability](#maintainability)
 - [Principles](#principles)
 - [Architectural Models](#architectural-models)
+- [References](#references)
 
 ## Introduction
 In the context of this course, we will use the term Enterprise Applications (EAs) to mean Enterprise-class Applications, i.e., applications that exhibit enterprise-level features and characteristics. These features and characteristics can be captured/expressed as _complex non-functional requirements_ in terms of:
