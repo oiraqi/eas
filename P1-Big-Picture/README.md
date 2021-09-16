@@ -115,7 +115,18 @@ Ensuring security flaws and logical bugs can be fixed at minimum cost (man-hour,
 - Principle 5: There is no best technology
 
 ## Architectural Models
+From Wikipedia: "
+Software architecture refers to the _fundamental structures_ of a software system and the discipline of creating such structures and systems. Each structure comprises _software elements_, _relations_ among them, and _properties_ of both elements and relations.[1]
+The architecture of a software system is a metaphor, analogous to the architecture of a building.[2]
+It functions as a _blueprint_ for the system and the developing project, laying out the tasks necessary to be executed by the design teams.[3]
+"
+
 ### Client/Server (Two-Tier) Model
 ### Multi-Tier SOA Model
 ### MVC
 ### Microservices
+
+## References
+[1] Clements, Paul; Felix Bachmann; Len Bass; David Garlan; James Ivers; Reed Little; Paulo Merson; Robert Nord; Judith Stafford (2010). Documenting Software Architectures: Views and Beyond, Second Edition. Boston: Addison-Wesley. ISBN 978-0-321-55268-6.
+[2] Perry, D. E.; Wolf, A. L. (1992). "Foundations for the study of software architecture" (PDF). ACM SIGSOFT Software Engineering Notes. 17 (4): 40. CiteSeerX 10.1.1.40.5174. doi:10.1145/141874.141884. S2CID 628695.
+[3] Software Architecture. https://www.sei.cmu.edu/our-work/software-architecture/
