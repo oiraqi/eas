@@ -101,6 +101,10 @@ Ensuring the components of the application can work together, as well as with ex
 - APIs
 
 ### Maintainability
+Ensuring security flaws and logical bugs can be fixed at minimum cost (man-hour, downtime, service degradation), So, we need to specify requirements in terms of:
+- Modularity
+- Loose coupling
+- Redundancy
 
 ## Principles
 - Principle 1: EAs should be aligned with the business – It’s not about technology; it’s about business
