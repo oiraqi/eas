@@ -84,9 +84,9 @@ So, we need to identify potential extension scenarios and corresponding requirem
 
 ### Accessibility
 Ensuring ubiquitous access to data and functionality, i.e., access _anytime_, _anywhere_. So, we need to specify _client side_ requirements in terms of:
-- Portability: ability to run on different devices and operating systems and responsivness (adaptability to screen size)
-- Responsiveness: ability to adapt to different screen sizes
-- offline access
+- Portability: ability to run on different devices (desktops, laptops, tablets, smartphones) and operating systems (Windows, Linux, Mac, Android, iOS)
+- Responsiveness: UI adaptability to different screen sizes
+- Offline access
 
 ### Interoperability
 ### Maintainability
