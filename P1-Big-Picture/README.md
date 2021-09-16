@@ -136,7 +136,7 @@ However, instead of designing the software architecture from scratch, it's a goo
 You can think of it as:
 <p align="center">Architectural Model + Specific Requirements + Adopted Technology ==> Architecture</p>
 
-### Client/Server (Two-Tier) Model
+### Two-Tier DOA Model
 ### Multi-Tier SOA Model
 ### MVC
 ### Microservices
