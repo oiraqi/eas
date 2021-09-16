@@ -96,6 +96,10 @@ Ensuring ubiquitous access to data and functionality, i.e., access _anytime_, _a
 - Offline access
 
 ### Interoperability
+Ensuring the components of the application can work together, as well as with external (open) systems. So, we need to specify the requirements in terms of:
+- (Standard) Protocols
+- APIs
+
 ### Maintainability
 
 ## Principles
