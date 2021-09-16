@@ -137,7 +137,7 @@ You can think of it as:
 <p align="center">Architectural Model + Specific Requirements + Adopted Technology ==> Architecture</p>
 
 ### Two-Tier Model
-<p align="center"><img src="Two-Tier.png"><br/>**Figure 1. Tow-Tier Architecture**</p>
+<p align="center"><img src="Two-Tier.png"><br/><b>Figure 1. Tow-Tier Model</b></p>
 
 ### Multi-Tier Model
 ### MVC
