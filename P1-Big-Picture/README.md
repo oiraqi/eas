@@ -143,7 +143,7 @@ You can think of it as:
 
 ### Two-Tier Model
 <p align="center"><img src="Two-Tier.png"><br/><b>Figure 1. Tow-Tier Model</b></p>
-#### Discussion: Advantages? Drwabacks?
+**Discussion: Advantages? Drwabacks?**
 
 ### Multi-Tier Model
 <p align="center"><img src="Multi-Tier.png"><br/><b>Figure 2. Multi-Tier Model</b></p>
