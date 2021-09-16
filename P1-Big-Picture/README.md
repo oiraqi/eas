@@ -114,7 +114,7 @@ Ensuring security flaws and logical bugs can be fixed at minimum cost (man-hour,
 - Principle 5: There is no best technology
 
 ## Architectural Models
-### Client / Server (Two-Tier) Model
-### Multi-tier SOA Model
+### Client/Server (Two-Tier) Model
+### Multi-Tier SOA Model
 ### MVC
 ### Microservices
