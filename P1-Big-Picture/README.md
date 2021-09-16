@@ -54,7 +54,7 @@ Ensuring response time under a predefined limit. Response time includes:
 
 So, you need to determine a _reasonable_ and _acceptable_ response time, taking into account:
 - UX
-- What competitors offer
+- Competition
 - Cost
 - Constraints (e.g. poor client-side network connectivity)
 
