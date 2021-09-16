@@ -154,10 +154,16 @@ You can think of it as:
 ### MVC Model
 <p align="center"><img src="MVC.png"><br/><b>Figure 3. MVC Model</b></p>
 
+#### Note
+MVC is not specific to the server side or to the multi-tier model, but it enhances them. Any software (even a simple standalone app) must control input (C), process it (M) and output results (V). Separating the three as three independent but interacting modules is nothing but MVC.
+
 #### Discussion: Advantages? Drawbacks?
 
 ### SOA Model
 <p align="center"><img src="SOA.png"><br/><b>Figure 4. SOA Model</b></p>
+
+#### Note
+SOA is not specific to the multi-tier architecture, but enhances it.
 
 #### Discussion: Advantages? Drawbacks?
 
