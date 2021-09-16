@@ -22,7 +22,7 @@ In the context of this course, we will use the term Enterprise Applications (EAs
 - How they can be accessible anytime, anywhere
 - How they can integrate with other systems
 - How they can be maintained
-### Examples
+### Examples of EAs
 - Enterprise Resource Planning (ERP) software, such as Odoo (https://www.odoo.com)
 - Hotel & Travel Management software, such as Booking (https://www.booking.com)
 - Communication software, such as WhatsApp (https://www.whatsapp.com)
