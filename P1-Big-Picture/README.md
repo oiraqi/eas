@@ -147,6 +147,8 @@ You can think of it as:
 <p align="center"><img src="Multi-Tier.png"><br/><b>Figure 2. Multi-Tier Model</b></p>
 
 ### MVC Model
+<p align="center"><img src="MVC.png"><br/><b>Figure 3. MVC Model</b></p>
+
 ### Microservices Model
 
 ## References
