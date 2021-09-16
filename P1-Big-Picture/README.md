@@ -162,6 +162,9 @@ You can think of it as:
 #### Discussion: Advantages? Drawbacks?
 
 ### Microservices Model
+<p align="center"><img src="Microservices.png"><br/><b>Figure 5. Microservices Model</b></p>
+
+#### Discussion: Advantages? Drawbacks?
 
 ## References
 [1] Clements, Paul; Felix Bachmann; Len Bass; David Garlan; James Ivers; Reed Little; Paulo Merson; Robert Nord; Judith Stafford (2010). Documenting Software Architectures: Views and Beyond, Second Edition. Boston: Addison-Wesley. ISBN 978-0-321-55268-6.
