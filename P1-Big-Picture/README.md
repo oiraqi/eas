@@ -36,6 +36,7 @@ So, we need to:
 - Identify the actors (user roles) allowed to perform each process: The basis for specifying IAAA (Identification, Authentication, Authorization and Accounting) requirements
 - Identify motion paths, related risks and what it is required to mitigate those risks
 - Identify storage systems, entities and attributes, related risks and what it is required to mitigate those risks
+- Identify Single Points of Failure (SPoF) and corresponding resiliency requirements
 
 ### Performance
 Ensuring response time under a predefined limit. Response time includes:
@@ -82,10 +83,10 @@ So, we need to identify potential extension scenarios and corresponding requirem
 - Loose coupling
 
 ### Accessibility
-Ensuring ubiquitous access to data and functionality, i.e., access _anytime_, _anywhere_. This requires the _client side_ to support:
-- as many types of devices as possible, for portability and responsivness (adaptability to screen size)
-- as many operating systems as possible for portability
-- offline access through caching
+Ensuring ubiquitous access to data and functionality, i.e., access _anytime_, _anywhere_. So, we need to specify _client side_ requirements in terms of:
+- Portability: ability to run on different devices and operating systems and responsivness (adaptability to screen size)
+- Responsiveness: ability to adapt to different screen sizes
+- offline access
 
 ### Interoperability
 ### Maintainability
