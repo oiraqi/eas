@@ -104,6 +104,7 @@ Ensuring the components of the application can work together, as well as with ex
 Ensuring security flaws and logical bugs can be fixed at minimum cost (man-hour, downtime, service degradation), So, we need to specify requirements in terms of:
 - Modularity
 - Loose coupling
+- Asynchronous communication
 - Redundancy
 
 ## Principles
