@@ -67,10 +67,10 @@ To specify requirements in terms of:
 - Algorithm optimization
 - Caching (client side and server side)
 - Compression
-- Processing power
 - Multithreading
 - Asynchronicity
 - Parallelism
+- Processing power
 
 A typical value for an interactive app, such as Facebook is 200 - 300 ms.
 
